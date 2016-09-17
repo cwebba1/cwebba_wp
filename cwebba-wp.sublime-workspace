@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 102942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 10306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 1831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 1747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1824,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/page-contact_cwebba.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/header.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/home.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sidebar.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/comments.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/front-page.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/footer.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/category.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/category-technology.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/category-polis.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/category-user_experience.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/_vars.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/_theme_info.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/resets/_normalize.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/resets/_reset.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/base/_base.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/base/_helpers.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/custom-editor-style.css",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/plugins/cforms-custom/cwebba_cform.css",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_contact_form_05.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_form-norm.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_wp-core-styles.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/styles/_cwebba.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/states/_media_queries.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/style.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/_mixins.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/style.css",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/functions.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/work_web_MQ02 copy.htm",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-includes/functions.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-includes/plugin.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/config.rb",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_searchbox.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/header_LawsonGalleries_Example.php",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_modals.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_css3_columns.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_searchbox.scss.haml",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/module/_project_modals.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/states/media_queries.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/base/helpers.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/styles/cwebba.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/base/base.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba/sass/base/bs-fancybox.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/cwebba_site/wp-content/themes/cwebba-wp-theme/comments.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/sass/_vars.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-config.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/single.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/comments.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/2016_comments.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/category.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/category-artist.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/category-art_chatter.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/category-artist_statement.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/category-art_bio.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/category-gallery_news.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/index.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/sass/module/_contact_form_05.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/plugins/Cwebba_Shortcodes/Cwebba_Shortcodes.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/functions_073116.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/plugins/cwebba/Cwebba_Custom_PostTypes_Shortcodes.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/lawsong_shortcodes.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/sass/style.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/lawsongalleries/sass/module/_css3_columns.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category-art_bio.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category-artist_statement.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/plugins/cforms2/styling/cforms.css",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/plugins/cforms-custom/cwebba_cform.css",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/cForm.html",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/cForm.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category-gallery_news.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/front-page.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/page-contact_lawsongalleries.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/base/_helpers.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_contact_form_05.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_css3_columns",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/plugins/cforms2/cforms-css.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/content.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category-artist.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category-art_chatter.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/single.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/page.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/home.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/index.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/style.css",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_sisiharmoni-bs04.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_wp-core-styles.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/base/_morehelpers.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/resets/_normalize.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/bs_scss/_tether.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/071516_style-w:Manual-Changes.css",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/bs_scss/_BS-fixes.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_flex.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/style.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/category_2014.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/bs4navwalker.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/base/_base.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_bs_tabs.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_lawson_modules.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_bs_navpills.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/module/_simpleJS_Slideshow_modules.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/plugins/image-size-attributes-remover/image-size-attributes-remover.php",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/index.html",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/style_061416.css",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/style_061616.css",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/_theme_info.scss",
+		"/Users/cwebba/Documents/web_development/wordpress/LawsonGallery_Site/wp-content/themes/LawsonG/sass/_vars.scss",
+		"/Users/cwebba/Documents/web_development/LawsonGalleries_website/sass/resets/_normalize.scss",
+		"/Users/cwebba/Documents/web_development/LawsonGalleries_website/sass/style.scss",
+		"/Users/cwebba/Documents/web_development/LawsonGalleries_website/sass/module/_lightbox02.scss",
+		"/Users/cwebba/Documents/web_development/LawsonGalleries_website/contact.html",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/css/xsisiharmoni-bs04.css",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/icarus-navbar.html",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/css/sisiharmoni-bs04.css",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/sass/resets/_reset.scss",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/sass/resets/_normalize.scss",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/sass/_vars.scss",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/sass/style.scss",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/css/ga_style_24.css",
+		"/Users/cwebba/Documents/web_development/SilverFox_website/Gotham_Analytics_index.htm",
+		"/Users/cwebba/Documents/web_development/cwebba07/css/iframe_pg.css",
+		"/Users/cwebba/Documents/web_development/cwebba07/sass/style.scss",
+		"/Users/cwebba/Documents/web_development/cwebba07/css/fonts05.css",
+		"/Users/cwebba/Documents/web_development/cwebba07/sass/module/_cwebba_project_module.scss.css",
+		"/Users/cwebba/Documents/web_development/cwebba/work_web_122815.htm",
+		"/Users/cwebba/Documents/web_development/cwebba/sass/_theme_info.scss",
+		"/C/Users/Maryellen/Documents/Craig's Folder/cwebba07/assets/javascripts/fancybox/jquery.fancybox.css",
+		"/C/Users/Maryellen/Documents/Craig's Folder/cwebba07/css/ANZ_style02.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hr",
+			"text-shadow",
+			"placeholder",
+			"sendbuttonbox",
+			"placeholder",
+			"contact",
+			"COMMENT",
+			"comment",
+			"sass-mixins-for-vendor",
+			"Craig Webb Art",
+			"Craig",
+			"Craig Webb Art",
+			"socialnav",
+			"a href='http",
+			"bloginfo('stylesheet_directory')",
+			"Read More",
+			"border",
+			"line-height",
+			".top li",
+			".sidnav",
+			".topnav",
+			"Continue Reading",
+			"Primary Page Menu",
+			"_e",
+			"Search",
+			"you are looking for",
+			"we couldn’t find the post",
+			"__",
+			"title",
+			"Craig Webb Art",
+			"POST",
+			"return",
+			"(",
+			"function",
+			"[",
+			"$",
+			"$_",
+			"session_start()",
+			"?>",
+			"sidebar-widget",
+			"sidebar-widget-",
+			"require_theme_support",
+			"wp_enqueue_style",
+			"add_action",
+			"add_action( 'wp_enqueue_scripts",
+			"last-of-type",
+			"last-of",
+			"header",
+			"footer",
+			"height",
+			"/* line 31, sass/base",
+			"archive-title",
+			"cwebba",
+			"CWEBBA",
+			"master-scripts",
+			"avatar",
+			"sidebars",
+			"searchbox",
+			"img",
+			"endpara2",
+			"wide-navserv",
+			".columns",
+			".wide-navserv",
+			".columns",
+			".columns4 ",
+			"columns",
+			"list-archives",
+			"search-submit",
+			"searchbox",
+			"sidebartitle",
+			".sidebartitle",
+			"sidebartitle",
+			".sidnavcol a",
+			"figure.w306",
+			".artcaption",
+			".wide-me-menu h4 a",
+			"a.contact",
+			".tothetop",
+			".copyright",
+			".back2top",
+			".related-info h6",
+			".wide-navserv",
+			".wide-move",
+			".list-archives li",
+			".list-archives",
+			".colcontain",
+			"footer",
+			"footer {",
+			".landpage",
+			"aside, article",
+			".top ul a",
+			"code",
+			".first",
+			"abbr[title",
+			".mw",
+			".dash",
+			"ul.dash",
+			"back2top",
+			"a.contact",
+			".first",
+			"-webkit-text-size-adjust",
+			"html",
+			"article,",
+			"article, aside, ",
+			"html",
+			"min-height: 100%",
+			"font-family",
+			"LawsonGalleries",
+			"twentysixteen",
+			"theme-slug",
+			"widget 02",
+			"size-full",
+			"lgi",
+			"columns",
+			"comment",
+			"font",
+			"form",
+			"hr",
+			"sendbutton",
+			":hover",
+			"border",
+			".wp-caption",
+			"[type=\"reset\"]",
+			"button,",
+			"WordPress",
+			"@media",
+			"wrapper",
+			"@media"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"echo esc_url( get_stylesheet_directory_uri() )",
+			"lawsongalleries",
+			"url(.",
+			"42, 86%, 56%, 1",
+			"EEEBC9",
+			"FFFEEB",
+			"D0DBE7",
+			"EBF6FF",
+			"mainnav",
+			"Silver Fox Renewables LLC",
+			"8C4103",
+			"e6e6e6",
+			"A92323",
+			"color:hsla(27, 100%, 10%, .7);",
+			"#8C7E73",
+			"assets/javascripts/",
+			"\nassets/javascripts/",
+			"assets/images",
+			"\nassets/images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 102942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69410,
+								69393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 46969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 10306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3191,
+								3191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1193.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "single.php",
+					"settings":
+					{
+						"buffer_size": 1831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 1747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								917
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
