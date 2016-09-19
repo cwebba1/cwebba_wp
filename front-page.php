@@ -12,8 +12,9 @@ get_header(); ?>
 <!--  CONTENT BEGINS HERE -->
 <div class="wide-content" role="main">
 <figure class="mast">
-<img class="rnd shadow" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/heropics/swim528x90_x2Banner.jpg" width="528" height="90"
-alt="About Craig Webb" />
+<!--<img class="rnd shadow" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/heropics/swim528x90_x2Banner.jpg" width="528" height="90"
+alt="About Craig Webb" />-->
+<img class="rnd shadow" src="<?php echo get_hero_image_src(); ?>" width="528" height="90" alt="About Craig Webb" />
 </figure>
 
 	<?php if (is_front_page()): ?><?php endif; ?>
