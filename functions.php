@@ -1,6 +1,38 @@
 <?php
 // functions.php 091616
 
+function get_hero_image_src(){
+    global $wpdb;
+    $wpdb->show_errors();
+
+        /*
+        'meta_query' => array(
+            'relation' => 'AND',
+            array(
+                'key' => 'post_title',
+                'value' => 'hero%',
+                'compare' => 'IN',
+            )
+        )
+        */
+
+    $args = array(
+        'post_type'      => 'attachment',
+        'post_mime_type' => 'image',
+        'post_status'    => 'inherit',
+        'posts_per_page' => - 1,
+        
+    );
+    $query_images = new WP_Query( $args );
+    $images = array();
+    foreach ( $query_images->posts as $image ) {
+        if(preg_match('/hero-/', $image->post_title) == 1) {
+            $images[] = wp_get_attachment_url( $image->ID );
+        }
+    }
+    $index = rand(0, count($images)-1);
+    return $images[$index];
+}
 
 /** Add theme-supported features. */
 add_action( 'after_setup_theme', 'cwebba_setup');
